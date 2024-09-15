@@ -1,6 +1,10 @@
 # project--Identify-Dog-Breeds
 Description: Developed a machine learning project to identify dog breeds from images using a pre-defined image classifier.
-Tools & Technologies: python
+Tools & Technologies: python,
+PyTorch : used for model inference and tensor operations.
+Pillow (PIL) : used for image loading and preprocessing.
+Torchvision :provides utilities for image transformation and pretrained models.
+Python Standard Library handles file reading and evaluation.
 
 
 
